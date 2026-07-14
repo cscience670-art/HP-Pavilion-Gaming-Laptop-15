@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 
 import * as Sentry from '@sentry/react';
 
+
 const App = () => {
   return (
     <main className="bg-black">
